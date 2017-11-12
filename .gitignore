@@ -3,3 +3,6 @@ Reading/.project
 Reading/target
 Reading/.settings
 Reading/build
+Reading/.idea
+Reading/WebContent/view/node_modules
+Reading/WebContent/view/npm-debug.log
