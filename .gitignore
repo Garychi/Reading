@@ -6,3 +6,5 @@ Reading/build
 Reading/.idea
 Reading/WebContent/view/node_modules
 Reading/WebContent/view/npm-debug.log
+Reading/WebContent/view/app/config/*.js
+Reading/WebContent/view/app/config/*.map
